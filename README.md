@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ezzeldeen Mousa
 
 🎓 Started my tech journey at 18 — currently learning Python through CS50  
-🧠 Exploring SaaS and AI Agents  
+🧠 Learning SaaS and AI Agents  
 🚀 Working toward long-term AI-driven business goals  
 📚 I believe in real work over noise
 
